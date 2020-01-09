@@ -1,0 +1,10 @@
+#input practice
+print("whats your name", end=' ')
+name = input()
+print("How tall are you?", end=' ')
+height = input()
+print("How much do you weigh?", end=' ')
+weight = input()
+print("what is your fav food",end=' ')
+food = input()
+print(f"So, you're {name}, {height} tall and {weight} heavy, your fav food is {food}")
