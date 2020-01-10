@@ -12,5 +12,5 @@ top_in2='corn'
 top_in3='chess bust'
 top_in4='fried chiken'
 top_in5='chiken nugets'
-print('pizza1',top_in1+top_in2+top_in3, top_in=' ', 'pizza2',top_in1+top_in2)
+print('pizza1',top_in1+top_in2+top_in3)
 print('pizza3',top_in3+top_in4+top_in5)
