@@ -7,10 +7,10 @@ type2='medium'
 type3='large'
 print('please select the type of you want')
 print("." *10)
-top_in1='onion'
-top_in2='corn'
-top_in3='chess bust'
-top_in4='fried chiken'
-top_in5='chiken nugets'
-print('pizza1',top_in1+top_in2+top_in3)
+end1='onion'
+end2='corn'
+end3='chess bust'
+end4='fried chiken'
+end5='chiken nugets'
+print('pizza1',end1+end2+end3,end" ",'pizza2',end1+end2)
 print('pizza3',top_in3+top_in4+top_in5)
