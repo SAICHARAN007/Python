@@ -1,0 +1,7 @@
+this is the example prog filw
+which containes some lines
+which will descride the python read and write operations
+line 1 have foods
+line 2 have drinks
+line 3 have bevarges
+line 4 have deserts
